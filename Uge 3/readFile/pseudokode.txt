@@ -1,0 +1,7 @@
+Start program 
+    - Hvis der bliver klikket på musen skal den gemme x,y positioner for musen.
+        1. hvis sand, gem mouseX og mouseY
+             1.1 Gem derefter data i en fil
+             1.2 Slut programmet  
+ 
+      hvis falsk, start program igen 
