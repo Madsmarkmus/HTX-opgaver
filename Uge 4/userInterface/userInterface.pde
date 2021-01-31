@@ -145,3 +145,5 @@ public void generate() {
   TFY2.clear();
   TFY3.clear();
 }
+
+//Vi kan ikke finde løsningen - den plotter ikke trekanten. Kan vi tage den på onsdag?
